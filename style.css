@@ -11,8 +11,8 @@ header {
     padding: 3rem 2rem;
 }
 .post{
-    text-align: center;
-    
+    text-align: center; 
+      
 }
 header h1 {
     font-size: 4rem;
@@ -79,6 +79,9 @@ footer a:hover {
     }
     header h1{
         font-size: 50px;
+    }
+    .post{
+        margin: 45px;
     }
     article.container, img{
         width: 80%;
